@@ -76,7 +76,7 @@ mvn clean install
 
 The home page serves as the main entry point to the application.
 
-![Home Page](src/main/resources/images/main_page.png)
+![Home Page](src/main/resources/images/main_page.PNG)
 
 <p style="text-align: center; font-style: italic;">Click on the button to access all products</p>
 
@@ -84,7 +84,7 @@ The home page serves as the main entry point to the application.
 
 The "All Products" page displays a table containing a list of all available products. You can view product details, including name, category, price, quantity, and description.
 
-![Read Products](src/main/resources/images/all_products_page.png)
+![Read Products](src/main/resources/images/all_products_page.PNG)
 
 <p style="text-align: center; font-style: italic;">On this page you can see all products, edit or delete existing. You can also create a new product by clicking the creation button</p>
 
@@ -93,7 +93,7 @@ The "All Products" page displays a table containing a list of all available prod
 
 To add a new product, navigate to the "Create New Product" page. Here, you can input details such as product name, category, price, quantity, and description.
 
-![Create Product](src/main/resources/images/create_page.png)
+![Create Product](src/main/resources/images/create_page.PNG)
 
 <p style="text-align: center; font-style: italic;">Fill the blanks and submit the form</p>
 
@@ -102,7 +102,7 @@ To add a new product, navigate to the "Create New Product" page. Here, you can i
 
 To modify an existing product, navigate to the "Edit Product" page by clicking the "Edit" button next to the respective product on the "All Products" page. Update the necessary information and click "Save Changes" to apply the modifications.
 
-![Update Product](src/main/resources/images/edit_page.png)
+![Update Product](src/main/resources/images/edit_page.PNG)
 
 <p style="text-align: center; font-style: italic;">Edit the existing data and submit the form</p>
 
@@ -111,6 +111,6 @@ To modify an existing product, navigate to the "Edit Product" page by clicking t
 
 Deleting a product can be done from the "All Products" page. Click the "Delete" button next to the product you want to remove. A confirmation prompt will appear before permanently removing the product.
 
-![Delete Product](src/main/resources/images/delete_page.png)
+![Delete Product](src/main/resources/images/delete_page.PNG)
 
 
