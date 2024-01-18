@@ -1,6 +1,6 @@
-# Project Name
+# IT Catalog project
 
-Description of your project.
+This web application is developed as part of a school project to manage a product catalog effectively. The primary goal is to provide functionalities for creating, editing, deleting, and searching for products within the catalog.
 
 ## Technologies Used
 
@@ -10,6 +10,23 @@ Description of your project.
 - MySQL
 - Maven
 - Other relevant technologies
+
+## Key Features
+
+#### 1. **Product Creation:**
+- Users can effortlessly add new products to the catalog by providing essential details such as name, category, price, quantity, and a detailed description.
+
+#### 2. **Product Listing:**
+- The application offers a clear and organized display of all cataloged products, presenting vital information such as name, category, price, quantity, and a concise description.
+
+#### 3. **Product Modification:**
+- Existing products can be easily updated through an intuitive "Edit Product" functionality. Users can modify product details, ensuring the catalog stays current and accurate.
+
+#### 4. **Product Deletion:**
+- Unnecessary or outdated products can be promptly removed from the catalog using a secure "Delete" option. A confirmation prompt helps prevent accidental deletions.
+
+#### 5. **Real-Time Product Search:**
+- The application integrates a dynamic search feature, allowing users to locate specific products instantly based on their name or other attributes.
 
 ## Getting Started
 
