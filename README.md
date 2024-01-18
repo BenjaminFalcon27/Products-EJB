@@ -78,7 +78,7 @@ The home page serves as the main entry point to the application.
 
 ![Home Page](src/main/resources/images/main_page.PNG)
 
-<p style="text-align: center; font-style: italic;">Click on the button to access all products</p>
+*Click on the button to access all products*
 
 ### Read Products
 
@@ -86,7 +86,7 @@ The "All Products" page displays a table containing a list of all available prod
 
 ![Read Products](src/main/resources/images/all_products_page.PNG)
 
-<p style="text-align: center; font-style: italic;">On this page you can see all products, edit or delete existing. You can also create a new product by clicking the creation button</p>
+*On this page you can see all products, edit or delete existing. You can also create a new product by clicking the creation button*
 
 
 ### Create Product
@@ -95,7 +95,7 @@ To add a new product, navigate to the "Create New Product" page. Here, you can i
 
 ![Create Product](src/main/resources/images/create_page.PNG)
 
-<p style="text-align: center; font-style: italic;">Fill the blanks and submit the form</p>
+*Fill the blanks and submit the form*
 
 
 ### Update Product
@@ -104,7 +104,7 @@ To modify an existing product, navigate to the "Edit Product" page by clicking t
 
 ![Update Product](src/main/resources/images/edit_page.PNG)
 
-<p style="text-align: center; font-style: italic;">Edit the existing data and submit the form</p>
+*Edit the existing data and submit the form*
 
 
 ### Delete Product
