@@ -53,16 +53,10 @@ git clone https://github.com/BenjaminFalcon27/Products-EJB.git
 3. Configure the database settings in the `ProductService.java` (or equivalent) file.
 
 
-```properties
-# Database Configuration
-db.url=jdbc:mysql://localhost:3306/your_database
-db.username=your_username
-db.password=your_password
+| **Option 1: Keep Default Configuration**                                             | **Option 2: Customize Configuration**                                                                                                                    |
+|--------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Keep the default configuration, which uses an online database with limited capacity. | Modify the database settings in the `ProductService.java` file. You can use the `catalog_products.sql` file to create a new db with some products in it. |
 
-#Then use the catalog_products.sql to fill your database
-```
-
-### You can also keep the default configuration with an online database.
 
 4. Build the project.
 
