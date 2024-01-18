@@ -9,10 +9,10 @@ import java.util.List;
 public class ProductService {
     private static final List<Product> products = new ArrayList<>();
 
-    // DB
-    private static final String JDBC_URL = "jdbc:mysql://localhost:3306/catalog";
-    private static final String JDBC_USER = "root";
-    private static final String JDBC_PASSWORD = "root";
+    // DB free hosted but can replace with a local database
+    private static final String JDBC_URL = "jdbc:mysql://sql8.freemysqlhosting.net/sql8677863";
+    private static final String JDBC_USER = "sql8677863";
+    private static final String JDBC_PASSWORD = "mRC2rmRIx5";
 
     private static final String COLUMN_ID = "id";
     private static final String COLUMN_NAME = "name";
