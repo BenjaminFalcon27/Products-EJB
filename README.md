@@ -50,7 +50,7 @@ git clone https://github.com/BenjaminFalcon27/Products-EJB.git
 
 2. Open the project in your preferred IDE.
 
-3. Configure the database settings in the `ProductService.java` (or equivalent) file.
+3. Configure the database or keep existing configuration.
 
 
 | **Option 1: Keep Default Configuration**                                             | **Option 2: Customize Configuration**                                                                                                                    |
